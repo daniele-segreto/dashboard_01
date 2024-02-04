@@ -1,0 +1,26 @@
+.logo {
+  margin-left: 15%;
+  margin-top: 19%;
+  width: 63%;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 13%;
+  font-weight:500;
+  font-size: 21px;
+}
+
+ul {
+  margin-top: 27%;
+}
+
+img {
+  padding-right: 7%;
+}
+
+a {
+  margin-top: 1%;
+  text-decoration: none;
+  color: black;
+}

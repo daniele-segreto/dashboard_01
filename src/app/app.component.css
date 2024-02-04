@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Colonna delle pagine */
+.colonna-2 {
+  background-color: #e5e5e5;
+}
+
+/* Responsive Styles */
+@media (max-width: 767px) {
+    .sidebar {
+      display: none !important;
+    }
+}
+@media (max-width: 576px) {
+    .sidebar {
+      display: none !important;
+    }
+}

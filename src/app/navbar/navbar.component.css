@@ -1,0 +1,11 @@
+/* Responsive Styles */
+@media (max-width: 767px) {
+    .navbar {
+      display: block !important;
+    }
+}
+@media (max-width: 576px) {
+    .navbar {
+      display: block !important;
+    }
+}

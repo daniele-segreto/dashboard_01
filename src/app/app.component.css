@@ -6,9 +6,10 @@
 /* Colonna delle pagine */
 .colonna-2 {
   background-color: #e5e5e5;
+  padding-top: 3%;
 }
 
-/* Responsive Styles */
+/* Responsive Styles Navbar */
 @media (max-width: 767px) {
     .sidebar {
       display: none !important;

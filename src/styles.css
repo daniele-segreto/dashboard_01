@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 17px;
+  color: #2b3674;
+}
